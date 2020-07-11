@@ -22,4 +22,13 @@ Or just visit my website to know more https://adityab079.github.io/
 <!--
 - 📫 How to reach me: bajajaditya079@gmail.com or just visit my website https://adityab079.github.io/
 **adityab079/adityab079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+
+
 -->
