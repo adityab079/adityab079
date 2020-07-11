@@ -1,6 +1,8 @@
-### Hello World!🌎
+# Hello World!🌎
 
-I'm Aditya Bajaj, an aspiring Software Developer.<br/>I'm currently based in the US, pursuing my Masters in Software Engineering at Arizona State University, Tempe, after having completed my Bachelors in Computer Engineering from University of Mumbai, India.
+#### I'm Aditya Bajaj, an aspiring Software Developer.
+
+I'm currently based in the US, pursuing my Masters in Software Engineering at Arizona State University, Tempe, after having completed my Bachelors in Computer Engineering from University of Mumbai, India.
 
 I'm committed to maintaining cutting edge technical skills and am always looking for opportunities to leverage my developer skill sets. I demonstrate quick grasping power & strong work ethics, along with a good sense of responsibility and leadership in all of my work.
 
