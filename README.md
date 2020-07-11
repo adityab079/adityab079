@@ -1,8 +1,10 @@
 # Hello World!🌎
 
-#### I'm Aditya Bajaj, an aspiring Software Developer.
+### I'm Aditya Bajaj, an aspiring Software Developer.
 
 I'm currently based in the US, pursuing my Masters in Software Engineering at Arizona State University, Tempe, after having completed my Bachelors in Computer Engineering from University of Mumbai, India.
+[![Linkedin Badge](https://img.shields.io/badge/-MorenaNobre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityabajaj-1/)](https://www.linkedin.com/in/adityabajaj-1/)
+[![Gmail Badge](https://img.shields.io/badge/-bajajaditya079@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bajajaditya079@gmail.com)](mailto:morenagnobre@gmail.com)
 
 
 
