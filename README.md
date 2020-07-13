@@ -12,8 +12,9 @@ I'm currently based in the US, pursuing my Masters in Software Engineering at Ar
 
 - ✨ When I'm not thinking about tech, I'm probably playing Chess or the Piano, or probably reading some Jack Reacher novel. 
 
+<br/>
 
-Connect with me on : [![Linkedin Badge](https://img.shields.io/badge/-Aditya_Bajaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityabajaj-1/)](https://www.linkedin.com/in/adityabajaj-1/)
+You connect with me on : [![Linkedin Badge](https://img.shields.io/badge/-Aditya_Bajaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityabajaj-1/)](https://www.linkedin.com/in/adityabajaj-1/)
 <br/>
 <br/>
 Get in touch with me on : [![Gmail Badge](https://img.shields.io/badge/-bajajaditya079@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bajajaditya079@gmail.com)](mailto:morenagnobre@gmail.com)
