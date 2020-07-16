@@ -6,7 +6,7 @@ I'm currently based in the US, pursuing my Masters in Software Engineering at Ar
 
 
 
-- 🔭 I’m currently working on 'What Can I Do' - a tool that helps you to collaborate with charitable organizations. It recently got accepted into Mozilla's Incubator Open Lab, for Startups.
+- 🔭 I’m currently working on 'What Can I Do' - a web extension that helps you to collaborate with charitable organizations. It recently got accepted into Mozilla's Incubator Open Lab, for Startups.
 
 - 🌱 I'm also working on improving my JavaScript skills(React, Angular & Vue).
 
