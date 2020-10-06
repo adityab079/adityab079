@@ -5,7 +5,7 @@
 I'm currently based in the US, pursuing my Masters in Software Engineering at Arizona State University, Tempe, after having completed my Bachelors in Computer Engineering from University of Mumbai, India.
 
 
-- 🔭 I’m currently working on [Fyltr](https://fyltr.co/) - a tool that smartly helps you to collaborate with charitable organizations. It recently got accepted into Mozilla's Incubator Open Lab, for Startups.
+- 🔭 I’m currently working as a Web & Mobile App Developer at [Adias-ASU Center of Engagement Science](https://corporate.asu.edu/adidas).
 
 - 🌱 I'm also working on improving my JavaScript skills(React, Angular & Vue).
 
