@@ -5,7 +5,7 @@
 I'm currently based in the US, pursuing my Masters in Software Engineering at Arizona State University, Tempe, after having completed my Bachelors in Computer Engineering from University of Mumbai, India.
 
 
-- 🔭 I’m currently working as a Web & Mobile App Developer at [Adias-ASU Center of Engagement Science](https://corporate.asu.edu/adidas).
+- 🔭 I’m currently working as a Web & Mobile App Developer at [Adidas-ASU Center of Engagement Science](https://corporate.asu.edu/adidas).
 
 - 🌱 I'm also working on improving my JavaScript skills(React, Angular & Vue).
 
