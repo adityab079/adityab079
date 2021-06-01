@@ -35,5 +35,4 @@ Or just visit my website to know more https://adityab079.github.io/
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 
 -->
-
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=adityab079)
