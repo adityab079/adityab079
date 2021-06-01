@@ -21,6 +21,8 @@ Get in touch with me on : [![Gmail Badge](https://img.shields.io/badge/-bajajadi
 <br/>
 Or just visit my website to know more https://adityab079.github.io/
 
+<br />
+
 <!--
 - 📫 How to reach me: bajajaditya079@gmail.com or just visit my website https://adityab079.github.io/
 **adityab079/adityab079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,5 +34,6 @@ Or just visit my website to know more https://adityab079.github.io/
 
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 
-
 -->
+
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
