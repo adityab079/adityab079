@@ -1,15 +1,13 @@
 # Hello World!🌎
 
 ### I'm Aditya Bajaj, an aspiring Software Developer.
+                                                        
+👨‍💻 I'm currently based in the US, working as a SDE at Amazon where I'm one of the core developers of the next-generation container execution data store for Sortation and Transportation technology which is built to sustain 10x growth in package volumes.
 
-I'm currently based in the US, pursuing my Masters in Software Engineering at Arizona State University, Tempe, after having completed my Bachelors in Computer Engineering from University of Mumbai, India.
+🎓 I have completed my Masters in Software Engineering at Arizona State University, USA, after completing my Bachelors in Computer Engineering from University of Mumbai, India.
 
+✨ When I'm not thinking about tech, I'm probably playing Chess or the Piano, or probably reading some Jack Reacher novel. 
 
-- 🔭 I’m currently working as a Web & Mobile App Developer at [Adidas-ASU Center of Engagement Science](https://corporate.asu.edu/adidas).
-
-- 🌱 I'm also working on improving my JavaScript skills(React, Angular & Vue).
-
-- ✨ When I'm not thinking about tech, I'm probably playing Chess or the Piano, or probably reading some Jack Reacher novel. 
 
 <br/>
 
