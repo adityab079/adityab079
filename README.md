@@ -6,7 +6,7 @@
 
 🎓 I have completed my Masters in Software Engineering at Arizona State University, USA, after completing my Bachelors in Computer Engineering from University of Mumbai, India.
 
-✨ When I'm not thinking about tech, I'm probably playing Chess or the Piano, or probably reading some Jack Reacher novel. 
+✨ When I'm not thinking about tech, I'm probably playing Chess or the Piano, or reading some Jack Reacher novel. 
 
 
 <br/>
