@@ -1,12 +1,14 @@
 # Hello World!🌎
 
-### I'm Aditya Bajaj, an aspiring Software Developer.
-                                                        
-👨‍💻 I'm currently based in the US, working as a SDE at Amazon where I'm one of the core developers of the next-generation container execution data store for Sortation and Transportation technology which is built to sustain 10x growth in package volumes.
+### Hi there, I'm Aditya Bajaj, a Senior Software Engineer working in the Cloud & AI space 👋
+
+👨‍💻 Currently based in Seattle, WA, I'm working as a Senior Software Engineer at Oracle on the Oracle Kubernetes Engine (OKE), focused on node observability, self-service diagnostics, and cloud infrastructure at scale. 
+
+🚚 I previously worked at Amazon where I was one of the core developers of the next-generation container execution data store for Sortation and Transportation technology which is built to sustain 10x growth in package volumes.
 
 🎓 I have completed my Masters in Software Engineering at Arizona State University, USA, after completing my Bachelors in Computer Engineering from University of Mumbai, India.
 
-✨ When I'm not thinking about tech, I'm probably playing Chess or the Piano, or reading some Jack Reacher novel. 
+✨ When I'm not thinking about tech, I'm probably playing Chess or the Piano, or reading some Jack Reacher novel.
 
 
 <br/>
@@ -14,7 +16,7 @@
 You connect with me on : [![Linkedin Badge](https://img.shields.io/badge/-Aditya_Bajaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityabajaj-1/)](https://www.linkedin.com/in/adityabajaj-1/)
 <br/>
 <br/>
-Get in touch with me on : [![Gmail Badge](https://img.shields.io/badge/-bajajaditya079@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bajajaditya079@gmail.com)](mailto:morenagnobre@gmail.com)
+Get in touch with me on : [![Gmail Badge](https://img.shields.io/badge/-bajajaditya079@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bajajaditya079@gmail.com)]
 <br/>
 <br/>
 Or just visit my website to know more https://adityab079.github.io/
